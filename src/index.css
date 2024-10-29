@@ -1,3 +1,13 @@
+:root {
+  --clr-primary: #ffa500;
+  --clr-dark: #2A2A2A;
+  --clr-light: #FFF;
+  --clr-text-dark: #666666;
+  --fw-normal: 400;
+  --fw-bold: 700;
+  --fw-black: 900;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
